@@ -15,3 +15,10 @@ Extract data from ChatGPT to provide Malay word in malay (formal and informal)
 
 <img width="439" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/0cdde02f-8625-4d90-8c45-c7a1631bfdcc">
 
+## Mamak Bot
+<img width="374" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/3163034c-90b5-409c-a69e-58d4849c38de">
+
+### order that have been collected
+<img width="191" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/6f025e42-7ca1-4557-bf3b-8a494cd5a215">
+
+
