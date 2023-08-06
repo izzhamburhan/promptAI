@@ -9,3 +9,9 @@
 Extract data from ChatGPT to provide Malay word in malay (formal and informal)
 
 <img width="398" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/978244fe-7708-49e5-9d5e-4822f6d98ba0">
+
+
+## Chatbot
+
+<img width="439" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/0cdde02f-8625-4d90-8c45-c7a1631bfdcc">
+
