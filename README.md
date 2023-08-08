@@ -1,7 +1,18 @@
 # promptAI
-
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+> Pront Engineering is a job that are focusing on create a prompt that can solve specific problem. Using LLM (Large Language Model) to predict  word based on training data . In this project we use instruction-tuned LLM that can follow instruction. RLHF (Reinforcement Learning Human Feedback) is what will be key to execute in the intruction-tuned LLM.
 
+## General Information
+- 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies 
+- JupyterLab
+- openai
+- tiktoken
+- os
+- panel
 
 
 ## Transforming
@@ -20,5 +31,12 @@ Extract data from ChatGPT to provide Malay word in malay (formal and informal)
 
 ### order that have been collected
 <img width="191" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/6f025e42-7ca1-4557-bf3b-8a494cd5a215">
+
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
 
 
