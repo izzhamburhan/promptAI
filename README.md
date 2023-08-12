@@ -3,7 +3,9 @@
 > Pront Engineering is a job that are focusing on create a prompt that can solve specific problem. Using LLM (Large Language Model) to predict  word based on training data . In this project we use instruction-tuned LLM that can follow instruction. RLHF (Reinforcement Learning Human Feedback) is what will be key to execute in the intruction-tuned LLM.
 
 ## General Information
-- 
+
+Stigma Draw Assumption
+![stigma_draw](https://github.com/izzhamburhan/promptAI/assets/58935865/7f667729-308d-48f4-805d-7ae06233ff8f)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
