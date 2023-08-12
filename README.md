@@ -8,7 +8,6 @@ Stigma Draw Assumption
 ![stigma_draw](https://github.com/izzhamburhan/promptAI/assets/58935865/7f667729-308d-48f4-805d-7ae06233ff8f)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies 
 - JupyterLab
 - openai
@@ -33,6 +32,10 @@ Extract data from ChatGPT to provide Malay word in malay (formal and informal)
 
 ### order that have been collected
 <img width="191" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/6f025e42-7ca1-4557-bf3b-8a494cd5a215">
+
+
+First idea graph
+![first idea_graph](https://github.com/izzhamburhan/promptAI/assets/58935865/3ba06745-1e56-47b7-8df1-71db638b07ed)
 
 
 ## Features
