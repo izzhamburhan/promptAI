@@ -16,6 +16,14 @@ Stigma Draw Assumption
 - panel
 
 
+#Data2JSON
+
+### the answer format will be : 
+<img width="525" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/9428808d-6bed-4f9a-824b-6d5d72c55d0f">
+
+
+
+
 ## Transforming
 
 Extract data from ChatGPT to provide Malay word in malay (formal and informal)
@@ -38,10 +46,9 @@ First idea graph
 ![first idea_graph](https://github.com/izzhamburhan/promptAI/assets/58935865/3ba06745-1e56-47b7-8df1-71db638b07ed)
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Constraint
 
+#### Hallucination
+<img width="515" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/783d966e-01a1-4275-9fda-7904cf7ada6c">
+- as you can see, the peerto peer corporates are given with example and not a reliable data.
 
