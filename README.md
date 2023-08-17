@@ -16,8 +16,7 @@ Stigma Draw Assumption
 - panel
 
 
-#Data2JSON
-
+# Data2JSON
 ### the answer format will be : 
 <img width="525" alt="image" src="https://github.com/izzhamburhan/promptAI/assets/58935865/9428808d-6bed-4f9a-824b-6d5d72c55d0f">
 
